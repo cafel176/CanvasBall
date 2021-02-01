@@ -6,7 +6,7 @@
 
 I used Cocos Creator to finish this game, and users can play it by using their browse simply.<br>
 Use the mouse to click the screen of your laptop or use your finger to click the screen of your phone to draw a line, and the ball will roll along the line.<br>
-Control the ball to get more coins and keep away with the enemy!<br>
+Control the ball to get more coins and starts and keep away with the enemy!<br>
 <a href="http://cafel.edinburgh.domains/canvasBall/web-mobile/"><b>Click here to play</b></a><br>
 
 ![图](pic/new.png)
