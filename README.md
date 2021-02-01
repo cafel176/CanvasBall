@@ -9,4 +9,4 @@ Use the mouse to click the screen of your laptop or use your finger to click the
 Control the ball to get more coins and keep away with the enemy!<br>
 <a href="http://cafel.edinburgh.domains/canvasBall/web-mobile/"><b>Click here to play</b></a><br>
 
-![图](pic/1.png)
+![图](pic/new.png)
